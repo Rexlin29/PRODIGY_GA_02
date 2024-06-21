@@ -19,6 +19,10 @@ In this project, we will:
 Let's get started!  
 
 
+## Pre-requisite
+⦁	Download and install Anaconda(recommended) from their official website.   (https://www.anaconda.com/products/distribution)
+
+
 ## Setup
 ### 1. Create a folder and activate a virtual environment inside the folder
 First, we need to create a folder for the project and create Python virtual environment in it to manage our project's dependencies. We'll use conda for this purpose:
